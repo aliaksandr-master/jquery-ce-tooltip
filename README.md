@@ -1,4 +1,4 @@
-ce-tooltip
+jquery-ce-tooltip
 ==========
 
 Custom Element Tooltip
